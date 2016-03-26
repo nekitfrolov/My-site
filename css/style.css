@@ -1,0 +1,28 @@
+body{
+	background-image: url(../img/67TRUBODT7.jpg);  /* фон  */ 
+	font-family: 'Raleway', sans-serif;   /* ШРИФТ  */
+background-attachment: fixed; /* Фиксируем фон  */
+}
+
+/* ОТСТУПЫ ВСЕЙ СТРАНИЦЫ */
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/* ЦВЕТ ССЫЛОК  */
+a {
+	color: #fff;
+}
+
+
+
+/* СТИЛИ ДЛЯ ОСНОВОГО БЛОКА   */
+.contentnumbone{
+
+	    margin: 31px;
+	    text-align: center;
+}
+
+
+
